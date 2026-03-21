@@ -7,58 +7,30 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## 🎓 Formation
+**Licence en Physique Fondamentale**
+Université d'Abomey-Calavi, Bénin — 2024
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Baccalauréat Scientifique Série D**
+CEG Tori-Agouako, Bénin — 2020
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 💼 Expériences Professionnelles
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Enseignant en Physique, Chimie et Technologie**
+2024 — Présent
+Enseignement des principes fondamentaux de la PCT.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Répétiteur en Physique, Chimie et Mathématiques**
+2020 — Présent
+Accompagnement personnalisé des élèves.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 🔬 Recherche
+
+**Travaux en Thermodynamique et Milieu Magnétique**
+FAST-UAC, 2022-2023
+Projet encadré par le Prof. Hilaire KOUGBEAGBEDE.
+
+## 🛠️ Compétences
+- Python, Fortran
+- Algèbre, Analyse, Statistiques
+- Français, Anglais, Fon
