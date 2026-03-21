@@ -9,6 +9,11 @@ Cette page regroupe des épreuves, devoirs et
 interrogations en Physique-Chimie et Mathématiques
 pour tous les niveaux du collège et du lycée.
 
+## 📥 Fichiers à Télécharger
+
+### 5ème — PCT
+[📥 Devoir Surveillé T1 — PCT 5ème 2025-2026](../files/PCT12.pdf)
+
 ---
 
 ## 📝 INTERROGATIONS
