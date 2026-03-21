@@ -21,8 +21,8 @@ repository               :  julien-kpossou/julien-kpossou.github.io".
 author:
   # Biographic information
   avatar           : "/images/profile.png"
-  name             : ""
-  pronouns         : # example: "she/her"  
+  name             : "Yémalin Julien KPOSSOU"
+  pronouns         : "her" # example: "she/her"  
   bio              : "Physicien | Enseignant | Modélisation Climatique"
   location         : "Abomey-Calavi, Bénin"
   employer         : "Enseignant"
