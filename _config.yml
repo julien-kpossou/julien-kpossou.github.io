@@ -20,7 +20,7 @@ repository               :  julien-kpossou/julien-kpossou.github.io".
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "images/profile.png"
   name             : "Yémalin Julien KPOSSOU"
   pronouns         : "her" # example: "she/her"  
   bio              : "Physicien | Enseignant | Modélisation Climatique"
