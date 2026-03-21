@@ -56,4 +56,23 @@ s0.parentNode.insertBefore(s1,s0);
 }
 </style>
 
+<!-- Effet Typewriter -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const elements = document.querySelectorAll(
+    '.page__content p, .page__content li'
+  );
+  elements.forEach(function(el) {
+    const text = el.innerText;
+    el.innerText = '';
+    let i = 0;
+    const timer = setInterval(function() {
+      el.innerText += text[i];
+      i++;
+      if (i >= text.length) clearInterval(timer);
+    }, 20);
+  });
+});
+</script>
+
 <!-- end custom head snippets -->
