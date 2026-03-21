@@ -28,4 +28,32 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 <!--End of Tawk.to Script-->
 
+<!-- Animation d'apparition du texte -->
+<style>
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content p,
+.page__content li,
+.page__title,
+.page__lead {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.6s ease forwards;
+}
+
+.page__content h1 { animation-delay: 0.1s; }
+.page__content h2 { animation-delay: 0.2s; }
+.page__content h3 { animation-delay: 0.3s; }
+.page__content p  { animation-delay: 0.4s; }
+.page__content li { animation-delay: 0.5s; }
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
+
 <!-- end custom head snippets -->
