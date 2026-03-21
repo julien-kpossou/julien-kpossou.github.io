@@ -27,7 +27,7 @@ main:
     url: /cv/
     
   - title: "Épreuves & Corrigés"
-      url: /epreuves/
+    url: /epreuves/
     
   - title: "Guide"
     url: /markdown/
