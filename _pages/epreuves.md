@@ -12,12 +12,17 @@ pour tous les niveaux du collège et du lycée.
 ## 📥 Fichiers à Télécharger
 
 ### 5ème — PCT
-<!-- [📥 Devoir Surveillé T1 — PCT 5ème 2025-2026](../files/PCT12.pdf) -->
+[📥 Devoir Surveillé T1 — PCT 5ème 2025-2026](../files/PCT12.pdf)
 
 ### 3ème — PCT (BEPC)
 [📥 Épreuve BEPC PCT — Atlantique 2025](../files/EB_PCT_Atlantique_BEPC_25.pdf)
 
 [📥 Corrigé BEPC PCT — Atlantique 2025](../files/EB_PCT_Atlantique_BEPC_25ERG.pdf)
+
+### Tle - PCT (BAC)
+[📥 Épreuve BAC BLANC PCT — COUFFO 2025](../files/EB_PCT_Couffo_BAC_D_25ERG.pdf)
+
+[📥 CORRIGÉ BAC BLANC PCT — COUFFO 2025](../files/EB_PCT_Couffo_BAC_D_25ERG.pdf)
 
 ---
 
