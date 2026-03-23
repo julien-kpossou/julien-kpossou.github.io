@@ -14,6 +14,11 @@ pour tous les niveaux du collège et du lycée.
 ### 5ème — PCT
 <!-- [📥 Devoir Surveillé T1 — PCT 5ème 2025-2026](../files/PCT12.pdf) -->
 
+### 3ème — PCT (BEPC)
+[📥 Épreuve BEPC PCT — Atlantique 2025](../files/EB_PCT_Atlantique_BEPC_25.pdf)
+
+[📥 Corrigé BEPC PCT — Atlantique 2025](../files/EB_PCT_Atlantique_BEPC_25ERG.pdf)
+
 ---
 
 ## 📝 INTERROGATIONS
